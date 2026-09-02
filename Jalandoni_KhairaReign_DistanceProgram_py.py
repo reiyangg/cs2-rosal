@@ -11,4 +11,4 @@ point_y = point_y2 - point_y1
 point_xy = pow(point_x,2)+pow(point_y,2)
  
 d = math.sqrt(point_xy)
-print("The distance is ", distance)
+print("The distance is ", d)
