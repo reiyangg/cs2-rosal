@@ -35,10 +35,10 @@ Enter x2: 9
 
 Enter y2: 10
 
-The distance between the two points is: 7.07
+The distance between the two points is: 6.71
 
 ## Author
 
-Name: Juan Dela Cruz
+Name: Khaira Reign B. Jalandoni
 
-Section: 8-Sampaguita
+Section: 8-Rosal
