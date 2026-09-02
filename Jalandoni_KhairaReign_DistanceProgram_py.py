@@ -8,7 +8,7 @@ point_y2 = float=(input("Enter y2: "))
 point_x = point_x2 - point_x1
 point_y = point_y2 - point_y1
 
-point_xy = pow(point_x, 2) + pow(point_y, 2)
+point_xy = pow(point_x,2)+pow(point_y,2)
  
-distance = math.sqrt(point_xy)
+d = math.sqrt(point_xy)
 print("The distance is ", distance)
